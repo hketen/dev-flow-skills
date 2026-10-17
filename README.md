@@ -62,7 +62,7 @@ The skill is generic on purpose. Put per-project rules in the project itself: `A
 node --test scripts/detect.test.mjs
 ```
 
-Layout, size budgets, how to add a stack file and the eval scenarios are in [`MAINTAIN.md`](MAINTAIN.md). Version claims cite primary sources in [`references/stacks/SOURCES.md`](references/stacks/SOURCES.md).
+Layout, size budgets, how to add a stack file and the acceptance scenarios are in [`MAINTAIN.md`](MAINTAIN.md). Version claims cite primary sources in [`references/stacks/SOURCES.md`](references/stacks/SOURCES.md).
 
 ## Third-party content
 

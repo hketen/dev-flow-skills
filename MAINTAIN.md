@@ -53,9 +53,9 @@ grep -rniE '/Users/|/home/[a-z]|C:\\\\Users' SKILL.md MAINTAIN.md references scr
 
 - Version tables age fast. Re-check each stack file against its sources when a new major of that package ships, and at least every 6 months. Update the "Checked ... on" date in its header.
 - Remove rows for majors that are past end-of-life and no longer common.
-- Rerun the eval scenarios below after each edit to SKILL.md or a routed file.
+- Rerun the acceptance scenarios below after each edit to SKILL.md or a routed file.
 
-## Eval scenarios
+## Acceptance scenarios
 
 Run each in a fresh session against a small fixture repo. A scenario passes when the agent shows every expected behaviour.
 
